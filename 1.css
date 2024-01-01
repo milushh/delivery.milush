@@ -1,0 +1,259 @@
+body{
+    width: 1600px;
+    height: 3321px;
+ 
+    
+    background: url(./img/bg.png);
+    background-position: center;
+    background-size: cover;
+    background-color: #0F0F11;
+}
+header{
+width: 100%;
+height: 30px;
+}
+.header{
+width: 100%;
+height: 30px;
+
+position: absolute;
+display: flex;
+justify-content: baseline;
+align-items: center;
+margin-top: 3%;
+
+}
+.logo{
+    width: 169px;
+    height: 30px;
+    margin-left: 0px;
+    display: flex;
+    justify-content: baseline;
+}
+.vector{
+    position: absolute;
+    width: 37px;
+    height: 16px;
+    margin-top: 0px;
+    margin-left: 271px;
+
+}
+.menu{
+    width: 105px;
+    height: 15px;
+    margin-left: 50px;
+    margin-top: 0px;
+    font-family: Calibri ;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.pac{
+    display: flex;
+    width: 120px;
+    justify-content: space-between;
+    margin-left: 880px;
+    
+}
+.infa{
+position: absolute;
+width: 312px;
+height: 98px;
+margin-top: 178px;
+margin-left: 5px;
+font-family: Calibri;
+font-size: 25px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+
+}
+.union1{
+position: absolute;
+width: 184px;
+height: 184px;
+top: 302px;
+left: -35px;
+
+}
+.mask{
+position: absolute;
+width: 700px;
+height: 700px;
+top: 126px;
+left: 700px;
+
+}
+.groupred{
+position: absolute;
+width: 355.24px;
+height: 357.93px;
+top: 602px;
+left: 660px;
+
+}
+.nomer{
+position: absolute;
+width: 226px;
+height: 30px;
+top: 523px;
+left: 21px;
+font-family: Arial Unicode MS ;
+font-size: 25px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+
+
+
+}
+.union2{
+position: absolute;
+width: 364px;
+height: 364px;
+top: 676px;
+left: 1200px;
+
+}
+.tiramisu{
+position: absolute;
+width: 238px;
+height: 365px;
+top: 819px;
+left: 21px;
+font-family: Arial Unicode MS ;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+
+}
+.img12{
+width: 238px;
+height: 262px;
+top: 819px;
+left: 21px;
+      
+}
+.cenatiramisu{
+margin-top:10px ;
+font-family: Arial Unicode MS;
+font-size: 23px;
+font-weight: 800;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.popularfood{
+position: absolute;
+width: 545.59px;
+height: 194px;
+top: 1226px;
+left: 430px;
+font-family: Arial Unicode MS;
+font-size: 50px;
+font-weight: 500;
+line-height: 90px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+
+}
+.eda{
+position: absolute;
+width: 1000px;
+display: grid;
+margin-top: 
+1417px;
+left: 15px;
+border: 1px;
+grid-template-columns: repeat(5, 1fr);
+grid-template-rows: repeat(2 1fr);
+grid-gap: 10px;
+
+
+}
+.eda div{
+width: 233px;
+height: 444px;
+
+}
+.nazvanie{
+font-family: Arial S;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+
+}
+.opicanie{
+opacity: 80%;
+font-family: Arial S;
+font-size: 15px;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+
+
+}
+.cena{
+font-family: Arial S;
+position: absolute;
+top: 350px;
+font-size: 23px;
+font-weight: 800;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+
+}
+.cena2{
+    font-family: Arial S;
+    position: absolute;
+    top: 826px;
+    font-size: 23px;
+    font-weight: 805;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+    
+    }
+footer{
+position: absolute;
+width: 100%;
+height: 190px;
+top: 3131px;
+background-color: #000;
+color: #c5c5c5;
+}
+.pacc{
+    display: flex;
+    justify-content: baseline;
+    
+}
+.pacc div{
+    grid-template-columns: repeat(7, 1fr);
+    grid-column-gap: 10px;
+   
+
+}
